@@ -6,3 +6,6 @@
 
 # Working archives
 _archive/
+
+# Superseded drafts kept locally, not published
+_archive_claude/
