@@ -1,0 +1,8 @@
+# Large data files — GitHub rejects anything over 100 MB
+*.dta
+*.csv
+*.RData
+*.rds
+
+# Working archives
+_archive/
